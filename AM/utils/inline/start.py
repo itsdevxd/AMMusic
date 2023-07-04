@@ -50,12 +50,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="💘 ɴᴇᴛᴡᴏʀᴋ 💘", url=config.SUPPORT_CHANNEL
-            ),
-        ],
-        ]
-             InlineKeyboardButton(
-                text="🙂 𝙳𝚎𝚟 💞", url=f"https://t.me/YOUR_BF_BABY"
-            ),
+             ]
         ],
      ]    
     return buttons
