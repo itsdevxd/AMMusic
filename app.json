@@ -1,7 +1,7 @@
 {
-    "name": "Sophia ᴍᴜsɪᴄ",
+    "name": "𝙽𝚒𝚍𝚑𝚒 𝚖𝚞𝚜𝚒𝚌",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/26aa5ce660ccb0ebdb38c.jpg",
+    "logo": "https://te.legra.ph/file/7f4f4394b2f4dc9284f57.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "12227067",
+        "value": "22024860",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "b463bedd791aa733ae2297e6520302fe",
+        "value": "a869ad45b9ff87b79235c82bbccd5cea",
         "required": true
       },
         "AUTO_LEAVING_ASSISTANT": {
@@ -39,12 +39,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega get from @BotFather",
-        "value": "Music Test",
+        "value": "💞 ɴɪᴅʜɪ ✘ ᴍᴜꜱɪᴄ 💖😴",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.get from @MissRose_bot user /id",
-        "value": "6204761408",
+        "value": "6185026897",
         "required": true
       },
       "STRING_SESSION": {
@@ -64,22 +64,22 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/AM_YTSupport",
+        "value": "https://t.me/II_VNND_WORLD_II",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/AmBotYT",
+        "value": "https://t.me/NIDHI_NETWORKS",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "https://telegra.ph/file/f20237d3a028a343d595a.jpg",
+        "value": "https://te.legra.ph/file/5e4ae4e6ce53280b4e268.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://telegra.ph/file/f20237d3a028a343d595a.jpg",
+        "value": "https://te.legra.ph/file/7f4f4394b2f4dc9284f57.jpg",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -99,12 +99,12 @@
       },
        "UPSTREAM_REPO": {
         "description": "Your Fork Repo link ",
-        "value": "https://github.com/AbhiModszYT/AMMusic",
+        "value": "https://github.com/Bhumikatosu/AMMusic",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001817662435",
+        "value": "-1001950139025",
         "required": true
       }
     },
